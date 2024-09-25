@@ -7,4 +7,3 @@ public class Lock {
         return code;
     }
 }
-
