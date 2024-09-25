@@ -4,7 +4,7 @@ public class Child {
     public final int x;
 
     public Child() {
-        this.x=10;
+        this.x=50;
     }
 
 
