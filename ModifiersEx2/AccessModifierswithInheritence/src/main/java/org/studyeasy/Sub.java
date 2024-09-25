@@ -1,6 +1,6 @@
 package org.studyeasy;
 
-public class Sub extends Base {
+public class Sub extends Base{
 
 
 }
