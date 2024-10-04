@@ -20,11 +20,11 @@ class IntWrapper{
 public class Main {
     public static void main(String[] args){
         ArrayList<Integer> numbersList =new ArrayList<>();
-        numbersList.add(30);
+        numbersList.add(45);
         System.out.println(numbersList.get(0));
 
         ArrayList<IntWrapper> numbersList2 =new ArrayList<>();
-        numbersList2.add(new IntWrapper(70));
+        numbersList2.add(new IntWrapper(90));
         System.out.println(numbersList2.get(0).getNum());
 
 
