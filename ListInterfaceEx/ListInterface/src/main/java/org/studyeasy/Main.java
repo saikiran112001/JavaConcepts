@@ -11,7 +11,7 @@ public class Main {
         list1.add("bandi");
 
         ArrayList<String> list2=new ArrayList<>();
-        list2.add("StudyEasy");
+        list2.add("Study");
         list2.add("organization");
         list2.add("team");
         new Main().printList(list2);
